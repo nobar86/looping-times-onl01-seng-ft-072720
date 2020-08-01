@@ -1,7 +1,8 @@
-def using_times
+#def using_times
 	#your code here
-end
+#end
 
-
+7.times do
+  puts ""
 
 
